@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent Based Modelling - Copy", "Agent Based Modelling - Copy.csproj", "{0BC09F05-DE4B-8211-F6F4-116FFA352058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent Based Modelling - Copy.Editor", "Agent Based Modelling - Copy.Editor.csproj", "{83C90773-1844-276E-63B7-4FB62EA83EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC09F05-DE4B-8211-F6F4-116FFA352058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC09F05-DE4B-8211-F6F4-116FFA352058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC09F05-DE4B-8211-F6F4-116FFA352058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC09F05-DE4B-8211-F6F4-116FFA352058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C90773-1844-276E-63B7-4FB62EA83EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C90773-1844-276E-63B7-4FB62EA83EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C90773-1844-276E-63B7-4FB62EA83EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C90773-1844-276E-63B7-4FB62EA83EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
